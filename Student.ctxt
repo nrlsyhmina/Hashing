@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=surname\ name\ secondName\ birthday
+comment1.target=Student(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.Date)
+comment2.params=
+comment2.target=int\ hashCode()
+comment3.params=other_
+comment3.target=boolean\ equals(java.lang.Object)
+numComments=4
